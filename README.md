@@ -9,4 +9,4 @@ this a django
 
 Hi Jonny pull and modify this
 
-Hi Wedajo, I am anwsering!!
+Hi Wedajo, I am answered!!
